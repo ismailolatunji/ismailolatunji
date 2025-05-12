@@ -7,10 +7,10 @@ I'm a Data & BI Analyst with over 7 years of experience transforming complex dat
 ---
 
 ## 🔍 About Me
-- 📊 Proven in predictive modelling, KPI reporting, and dashboard design
-- 🧠 Passionate about data storytelling and data-driven decision-making
-- 🤝 Strong in stakeholder engagement and cross-functional collaboration
-- 🎓 MSc in Data Analytics & Technologies (University of Bolton)
+- 📊 **Expertise:** Predictive modelling, KPI reporting, and interactive dashboard design.
+- 🧠 **Passion:** Data storytelling, leveraging insights to support data-driven decisions.
+- 🤝 **Collaboration:** Strong stakeholder engagement and cross-functional teamwork.
+- 🎓 **Education:** MSc in Data Analytics & Technologies from the University of Bolton.
 
 ---
 
@@ -24,24 +24,25 @@ I'm a Data & BI Analyst with over 7 years of experience transforming complex dat
 
 ## 💼 Experience Highlights
 ### Research Assistant | University of Bolton (2024)
-- Built ML models to predict road collisions (97% accuracy)
-- Developed geospatial dashboards in Power BI
+- Built machine learning models to predict road traffic collisions, achieving 97% accuracy.
+- Developed geospatial dashboards in Power BI to support urban planning.
 
 ### Operations Data Analyst | Quick Choice (2020–2023)
-- Automated reporting (SQL + Excel) reducing manual work by 50%
-- Built real-time Power BI dashboards used across operations
+- Automated quarterly reporting (SQL + Excel), reducing manual work by 50%.
+- Built real-time KPI dashboards used across the business to increase operational efficiency.
 
 ### Data Analyst, Marketing | Quick Choice (2018–2020)
-- Boosted conversion by 25% through A/B testing
-- Predicted churn and improved retention by 15%
+- Increased conversion rates by 25% through A/B testing and data-driven marketing strategies.
+- Improved retention by 15% with churn analysis and targeted campaigns.
+
 
 ---
 
 ## 📂 Featured Projects
 - [🚦 Road Traffic Collision Dashboard (Power BI)](https://bit.ly/40vz9jt)
-- [🚨 Crime Analysis with Spark & Python](#)
-- [📈 Interactive Excel Sales Dashboard](#)
-- [🧪 Accenture Data Analytics Simulation](https://bit.ly/myPowerPoint)
+- [🚨 Crime Analysis with Spark & Python](https://github.com/ismailolatunji/Crime-Analysis-Using-PySpark-and-Python)
+- [📈 Interactive Excel Sales Dashboard](https://1drv.ms/x/c/abd1130d9666c805/EQkFObh8jaVHqCsTo60o-isBEW1fvZBIJ8MQoFEEOVxgoA?e=OSQHe8)
+- [🧪 Accenture Data Analytics Simulation](https://github.com/ismailolatunji/Olatunjiomotayo-Accenture-Job-Simulation)
 
 ---
 
@@ -56,8 +57,8 @@ I'm a Data & BI Analyst with over 7 years of experience transforming complex dat
 
 ## 📫 Let's Connect
 - **Email:** olatunjiomotayoh@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-- **GitHub:** [github.com/ismailolatunji](#)
+- **LinkedIn:** [linkedin.com/in/ismailolatunji](http://www.linkedin.com/in/ismailolatunji)  
+- **GitHub:** [github.com/ismailolatunji](https://github.com/ismailolatunji)
 
 Thanks for stopping by! 🚀
 

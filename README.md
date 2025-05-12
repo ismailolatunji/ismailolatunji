@@ -55,7 +55,10 @@ I'm a Data & BI Analyst with over 7 years of experience transforming complex dat
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect & Collaborate
+
+I'm always open to collaborating on data analysis, business intelligence, and automation projects. Whether you're working on an exciting dataset, building dashboards, or just want to connect — feel free to reach out!
+
 - **Email:** olatunjiomotayoh@yahoo.com  
 - **LinkedIn:** [linkedin.com/in/ismailolatunji](http://www.linkedin.com/in/ismailolatunji)  
 - **GitHub:** [github.com/ismailolatunji](https://github.com/ismailolatunji)

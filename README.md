@@ -15,7 +15,7 @@ With **7+ years** transforming data into strategic insights, I bridge technical 
 ## 🛠️  Core Expertise
 
 **Data Engineering**  
-- ETL Pipelines | SQL Optimisation (Joins, CTEs) | Python (Pandas, NumPy)  
+- ETL Pipelines | SQL Optimisation (Joins, CTEs) | Python (Pandas, NumPy, Scikit-Learn)  
 
 **Business Intelligence**  
 - Power BI (DAX, Data Modeling) | **Excel Expert** (Power Pivot, Advanced Formulas) | Tableau  
@@ -64,11 +64,9 @@ With **7+ years** transforming data into strategic insights, I bridge technical 
 ## 📫 Let's Connect
 
 - **Email:** olatunjiomotayoh@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/ismailolatunji](http://www.linkedin.com/in/ismailolatunji)  
+- **LinkedIn:** [linkedin.com/in/ismailolatunji](http://www.linkedin.com/in/ismailolatunji) 
 
 Thanks for stopping by! 🚀
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismailolatunji&show_icons=true&theme=radical)
 
 <!--
 **ismailolatunji/ismailolatunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

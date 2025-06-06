@@ -1,46 +1,41 @@
 ## Hi there, I'm Ismail Olatunji 👋
 
-🎯 **Data & BI Analyst | Power BI | Python | SQL | Data Storytelling**
+🎯 ** Data & BI Analyst | SQL, Python, Power BI, AWS | Predictive Modeling & Business Analytics **
 
 ## 🔍 About Me
+I'm a results-driven Data & BI Analyst with 7+ years of experience delivering actionable data solutions across operations, marketing, and research. I specialise in transforming complex datasets into strategic intelligence that drives business growth and smarter decision-making.
 
-With **7+ years** transforming data into strategic insights, I bridge technical execution and business impact through:  
-- 🤝 **Cross-functional collaboration** with leadership/engineering teams  
-- 🧩 **Complex problem-solving** into scalable data solutions  
-- 📊 **Metrics-driven storytelling** for executive decision-making
-- 🎓 **MSc in Data Analytics & Technologies**, University of Bolton
+## 💼 Key Achievements:
+- Achieved 40% increase in operational efficiency through Power BI dashboard implementation.
+- Delivered 97% accuracy in machine learning models predicting road traffic collisions using Python and scikit-learn.
+- Reduced reporting time by 50% via workflow automation.
+- Drove 20–40% growth in customer engagement and retention through advanced customer analytics and behaviour modelling
 
----
-
-## 🛠️  Core Expertise
-
-**Data Engineering**  
-- ETL Pipelines | SQL Optimisation (Joins, CTEs) | Python (Pandas, NumPy, Scikit-Learn)  
-
-**Business Intelligence**  
-- Power BI (DAX, Data Modeling) | **Excel Expert** (Power Pivot, Advanced Formulas) | Tableau  
-
-**Advanced Analytics**  
-- Machine Learning | Predictive Modeling | Statistical Analysis | A/B Testing Framework Design  
-
-**Tools & Platforms**  
-- Google Analytics (GA4) | Meta Ads | Microsoft 365 Power Stack
+## 🛠️ Core Technical Skills:
+- Data Analysis & Engineering: Python (Pandas, Scikit-Learn, Pyspark), SQL (CTEs, Joins), R, Git, ETL Pipeline, Data Warehousing
+- ML & Advanced Analytics: Predictive Modelling, Time Series, A/B Testing, Statistical Hypothesis Testing, MLops Best Practices
+- BI & Reporting: Power BI (DAX, Dashboards, KPI), Advanced Excel, Data Storytelling, Customer Segmentation, Cohort Analysis
+- Cloud & AI Technologies: AWS (S3, Lambda, Sagemaker), Cloud-Based ML Deployment, NLP (Hugging Face Transformers)
+- CRM & Marketing Tools: CLM Software, Salesforce Integration, Google Analytics (GA4), RFM Analysis, A/B Testing Insights
 
 ---
 
-## 💼 Professional Highlights
+Beyond technical skills, I excel in stakeholder engagement, cross-functional collaboration, and mentoring teams to successfully adopt data-driven strategies.
 
-**Research Assistant** | University of Bolton (2024)
-- Built machine learning models to predict road traffic collisions (97% accuracy).
-- Developed geospatial dashboards in Power BI to support urban planning & road safety. 
+I hold an MSc in Data Analytics & Technologies, sharpening both my strategic insight and technical capabilities.
 
-**Operations Data Analyst** | Quick Choice (2020–2023)
-- Automated quarterly reporting (SQL + Excel), reducing manual effort by 50%.
-- Built real-time KPI dashboards used across business units.
+---
 
-**Data Analyst, Marketing** | Quick Choice (2018–2020)
-- Increased conversion rates by 25% through A/B testing and data-driven marketing strategies.
-- Improved retention by 15% with churn analysis and targeted campaigns.
+Current Focus:
+Advancing expertise in cloud-based AI, AWS Data Engineering, and MLOps through hands-on training and real-world projects, including:
+- Deploying machine learning models with Amazon SageMaker
+- Building scalable data pipelines using AWS S3 and Lambda
+- Developing NLP solutions with Hugging Face Transformers
+- Implementing MLOps best practices for production-ready AI
+
+---
+
+I combine a commercial mindset with hands-on execution, bridging data complexity and business clarity. If you’re seeking a data professional who delivers measurable impact from day one, I welcome the opportunity to connect and explore how I can contribute to your team’s success.
 
 ---
 

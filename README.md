@@ -32,3 +32,7 @@ I combine a commercial mindset with hands-on execution, bridging data complexity
 
 - **Email:** olatunjiomotayoh@yahoo.com  
 - **LinkedIn:** [linkedin.com/in/ismailolatunji](http://www.linkedin.com/in/ismailolatunji)
+
+---
+
+"Every dataset holds a truth waiting to be visualised. I use SQL, Python, and Power BI to reveal those truths, and the opportunities they represent."

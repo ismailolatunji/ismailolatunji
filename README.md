@@ -1,38 +1,29 @@
-# Hi there, I'm Ismail Olatunji 👋
+## Executive Summary
 
-## About Me
-I'm a results-driven Data & BI Analyst with 7+ years of experience delivering actionable data solutions across operations, marketing, and research. I specialise in transforming complex datasets into strategic intelligence that drives business growth and smarter decision-making.
+Data & BI Analyst with 7+ years of commercial experience delivering SQL, Python and Power BI solutions that improve operational efficiency, marketing performance and business visibility.
 
-## 💼 Key Achievements:
-- Achieved 40% increase in operational efficiency through Power BI dashboard implementation.
-- Delivered 97% accuracy in machine learning models predicting road traffic collisions using Python and scikit-learn.
-- Reduced reporting time by 50% via workflow automation.
-- Drove 20–40% growth in customer engagement and retention through advanced customer analytics and behaviour modelling
+### Proven Impact
 
-## 🛠️ Core Technical Skills:
-- Data Analysis & Engineering: Python (Pandas, Scikit-Learn, Pyspark), SQL (CTEs, Joins), R, Git, ETL Pipeline
-- ML & Advanced Analytics: Predictive Modelling, Time Series Forecasting, Statistical Hypothesis Testing, MLops Best Practices
-- BI & Reporting: Power BI (DAX), Excel (Advanced), Data Storytelling, Customer Segmentation, KPI Dashboards
-- Cloud & AI Technologies: AWS (S3, Lambda, Sagemaker), Cloud-Based ML Deployment, NLP (Hugging Face Transformers)
-- CRM & Marketing Tools: Google Analytics (GA4), Salesforce, CLM Software, RFM Analysis, A/B Testing
+- 50% reduction in reporting cycle time through Python & SQL ETL automation  
+- 40% operational efficiency improvement via redesigned KPI dashboards (30+ Power BI reports)  
+- 40% increase in campaign response rates using churn prediction and RFM segmentation  
+- 99% reporting accuracy through structured data validation frameworks  
+- Designed scalable performance tracking systems supporting growth from 5 to 80+ staff  
 
----
+Over seven years at Quick Choice, I progressed from Customer Service to Marketing Analytics and then Operations Analytics, building technical depth alongside commercial understanding. Working across functions gave me a strong grasp of how operational, marketing and financial decisions connect, which makes my analytics work practical and commercially grounded.
 
-Beyond technical skills, I excel in stakeholder engagement, cross-functional collaboration, and mentoring teams to successfully adopt data-driven strategies.
+I recently completed an MSc in Data Analytics (University of Bolton, 2024), further strengthening capability in machine learning, large-scale data processing and statistical modelling.
 
-I hold an MSc in Data Analytics & Technologies, sharpening both my strategic insight and technical capabilities.
+### Technical Stack
 
----
+- SQL (T-SQL, CTEs, window functions)  
+- Python (Pandas, Scikit-Learn, PySpark)  
+- Power BI (DAX)  
+- Excel (Power Query)  
+- BigQuery  
+- GA4  
+- Predictive modelling  
+- A/B testing  
+- Data validation & governance  
 
-I combine a commercial mindset with hands-on execution, bridging data complexity and business clarity. If you’re seeking a data professional who delivers measurable impact from day one, I welcome the opportunity to connect and explore how I can contribute to your team’s success.
-
----
-
-## 📫 Let's Connect
-
-- **Email:** olatunjiomotayoh@yahoo.com  
-- **LinkedIn:** [linkedin.com/in/ismailolatunji](http://www.linkedin.com/in/ismailolatunji)
-
----
-
-"Every dataset holds a truth waiting to be visualised. I use SQL, Python, and Power BI to reveal those truths, and the opportunities they represent."
+Currently developing Azure Data Engineering capability (Data Factory, Databricks, Synapse) through structured hands-on projects.
